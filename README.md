@@ -6,7 +6,7 @@ I have an MA in Linguistics and a strong interest in NLP.
 
 I'm currently learning intermediate Python and as much as I can about NLP principles.
 
-I'm looking for work in the data sector, particularly training positions.
+I'm looking for work in the tech sector, particularly training positions.
 
 There is not much here at the moment but I hope to add projects as I gain experience.
 
