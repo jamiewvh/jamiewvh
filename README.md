@@ -1,5 +1,6 @@
 ### Jamie Hardie
 Pronouns: He / Him
+
 I am a beginner Python developer and career changer looking to get started with machine learning and data science.
 I have an MA in Linguistics and a strong interest in NLP.
 
